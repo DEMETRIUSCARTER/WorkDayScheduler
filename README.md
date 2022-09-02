@@ -18,13 +18,14 @@ A simple calendar app for scheduling your work day
 https://demetriuscarter.github.io/WorkDayScheduler/
 
 
-
-
 ## Technologies Used
 Visual Studio Code
 HTML
 Javascript
 CSS
+
+## Project Status
+Application currently not functioning properly.
 
 
 ## Contact

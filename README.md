@@ -15,7 +15,7 @@ A simple calendar app for scheduling your work day
 
 
 
-https://demetriuscarter.github.io/FootballQuiz/
+https://demetriuscarter.github.io/WorkDayScheduler/
 
 
 
